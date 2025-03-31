@@ -1,1 +1,5 @@
-<error>invalid request</error>
+[
+{ 
+"r030":840,"txt":"Долар США","rate":29.2549,"cc":"USD","exchangedate":"07.07.2022"
+ }
+]
